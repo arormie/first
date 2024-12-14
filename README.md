@@ -1,2 +1,2 @@
-# first
-first time using github.. basically a test i guess
+# calculator
+simple python calculator.
